@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <View android:id="@+id/listitem_daily_divider"
+        android:layout_height="1dp"
+        android:layout_width="match_parent">
+    </View>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvDailyIcon"
+            android:textColor="@android:color/white"
+            android:layout_gravity="center_vertical"
+            android:textSize="41sp"
+            android:layout_weight="1"
+            android:layout_marginRight="15dp"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:id="@+id/llDailyWeekdaySummary">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvDailyWeekday"
+                android:textColor="@android:color/white"
+                android:textSize="20sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvDailySummary"
+                android:textColor="@android:color/white"
+                android:textSize="12sp"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:id="@+id/tvDailyTemperature"
+            android:layout_marginLeft="10dp"
+            android:textSize="28sp"
+            android:textColor="@android:color/white"/>
+    </LinearLayout>
+
+</LinearLayout>

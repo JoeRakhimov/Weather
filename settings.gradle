@@ -1,0 +1,1 @@
+include ':app', ':astana', ':tashkent', ':tokyo', ':moscow', ':newyork', ':seoul', ':paris', ':beijing', ':manila', ':saopaulo'

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Weather.iml" filepath="$PROJECT_DIR$/Weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/astana/astana.iml" filepath="$PROJECT_DIR$/astana/astana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beijing/beijing.iml" filepath="$PROJECT_DIR$/beijing/beijing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manila/manila.iml" filepath="$PROJECT_DIR$/manila/manila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moscow/moscow.iml" filepath="$PROJECT_DIR$/moscow/moscow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newyork/newyork.iml" filepath="$PROJECT_DIR$/newyork/newyork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paris/paris.iml" filepath="$PROJECT_DIR$/paris/paris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/saopaulo/saopaulo.iml" filepath="$PROJECT_DIR$/saopaulo/saopaulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seoul/seoul.iml" filepath="$PROJECT_DIR$/seoul/seoul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tashkent/tashkent.iml" filepath="$PROJECT_DIR$/tashkent/tashkent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tokyo/tokyo.iml" filepath="$PROJECT_DIR$/tokyo/tokyo.iml" />
+    </modules>
+  </component>
+</project>

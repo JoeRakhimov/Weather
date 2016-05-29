@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/astana" />
+            <option value="$PROJECT_DIR$/beijing" />
+            <option value="$PROJECT_DIR$/manila" />
+            <option value="$PROJECT_DIR$/moscow" />
+            <option value="$PROJECT_DIR$/newyork" />
+            <option value="$PROJECT_DIR$/paris" />
+            <option value="$PROJECT_DIR$/saopaulo" />
+            <option value="$PROJECT_DIR$/seoul" />
+            <option value="$PROJECT_DIR$/tashkent" />
+            <option value="$PROJECT_DIR$/tokyo" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/astana" />
+            <option value="$PROJECT_DIR$/beijing" />
+            <option value="$PROJECT_DIR$/manila" />
+            <option value="$PROJECT_DIR$/moscow" />
+            <option value="$PROJECT_DIR$/newyork" />
+            <option value="$PROJECT_DIR$/paris" />
+            <option value="$PROJECT_DIR$/saopaulo" />
+            <option value="$PROJECT_DIR$/seoul" />
+            <option value="$PROJECT_DIR$/tashkent" />
+            <option value="$PROJECT_DIR$/tokyo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

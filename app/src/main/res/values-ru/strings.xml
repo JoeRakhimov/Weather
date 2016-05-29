@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading">Обновление данных ...</string>
+    <string name="no_internet_connection">Нет подключение к интернету</string>
+    <string name="erron_on_update">Ошибка при обновлении данных</string>
+    <string name="tap_to_update">Коснитесь экрана чтобы повторить попытку</string>
+
+    <string name="year_abr">г</string>
+    <string name="month_abr">м</string>
+    <string name="week_abr">н</string>
+    <string name="day_abr">д</string>
+    <string name="hour_abr">ч</string>
+    <string name="minite_abr">м</string>
+
+    <string name="mps">м/c</string>
+    <string name="mph">миля/ч</string>
+
+    <array name="weekdays">
+        <item></item>
+        <item>Воскресение</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </array>
+
+</resources>
